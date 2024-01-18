@@ -18,7 +18,7 @@ JUDUL : BLOG RESEP MAKANAN
 
 MATA KULIAH : Pemrograman Orientasi Objek
 
-Dosen Pengampu  : Dr. Ir. Ananto Tri Sasongko, M.Sc.
+Dosen Pengampu  : Dr. Ir. Ananto Tri Sasongko, M.Sc.
 
 ```
 
