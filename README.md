@@ -14,7 +14,11 @@ HAFIDZA DAFARIZ MUJIZAT | 312210276
 ```
 
 ```
+JUDUL : BLOG RESEP MAKANAN
+
 MATA KULIAH : Pemrograman Orientasi Objek
+
+Dosen Pengampu  : Dr. Ir. Ananto Tri Sasongko, M.Sc.
 
 ```
 
